@@ -1,0 +1,7 @@
+# リクエスト：計測したい場所の名前 (e.g., "shiojiri.city_hall_entrance")
+string location
+---
+# レスポンス：処理が成功したか
+bool success
+# レスポンス：処理結果のメッセージ
+string message

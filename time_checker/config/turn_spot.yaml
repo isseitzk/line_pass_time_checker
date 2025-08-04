@@ -1,0 +1,35 @@
+polygon_pass_opposite_line_time_measurer:
+  ros__parameters:
+    vehicle_length: 7.24
+    vehicle_width: 2.30
+    base_link_to_center_offset: 2.19
+
+    shiojiri:
+      city_hall_entrance:
+        start_line_p1_x: 65779.1159
+        start_line_p1_y: 723.4907
+        start_line_p2_x: 65779.6364
+        start_line_p2_y: 746.2223
+        finish_line_p1_x: 65782.851
+        finish_line_p1_y: 723.4006
+        finish_line_p2_x: 65783.3713
+        finish_line_p2_y: 746.1353
+      reference_intersection:
+        start_line_p1_x: 65778.1527
+        start_line_p1_y: 682.7994
+        start_line_p2_x: 65777.6611
+        start_line_p2_y: 661.6699
+        finish_line_p1_x: 65774.2231
+        finish_line_p1_y: 682.8651
+        finish_line_p2_x: 65773.7878
+        finish_line_p2_y: 661.694
+    komatsu:
+      saikucho:
+        start_line_p1_x: 30085.29
+        start_line_p1_y: 29948.04
+        start_line_p2_x: 30150.67
+        start_line_p2_y: 29942.49
+        finish_line_p1_x: 30084.98
+        finish_line_p1_y: 29942.15
+        finish_line_p2_x: 30150.18
+        finish_line_p2_y: 29936.40
