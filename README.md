@@ -13,7 +13,7 @@ This package measures the time elapsed for a vehicle to travel from a designated
 If you want to launch time_checker node:
 
 ```sh
-ros2 launch time_checker time_checker.launch.py'
+ros2 launch time_checker time_checker.launch.py
 ```
 
 If you want to set the start/finish line by ROS2 service call: 
