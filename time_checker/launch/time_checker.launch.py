@@ -38,8 +38,8 @@ def launch_setup(context, *args, **kwargs):
 def generate_launch_description():
     location_arg = DeclareLaunchArgument(
         'location',
-        default_value='shiojiri.city_hall_entrance',
-        description='Initial location key to use from the YAML file'
+        default_value='',
+        description='Optional initial location key. If empty, node starts in idle mode.'
     )
 
     return LaunchDescription([
