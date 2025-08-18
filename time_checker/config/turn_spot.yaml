@@ -33,3 +33,14 @@ polygon_pass_opposite_line_time_measurer:
         finish_line_p1_y: 29942.15
         finish_line_p2_x: 30150.18
         finish_line_p2_y: 29936.40
+    shinkiba:
+      station_return:
+        start_line_p1_x: 93842.24
+        start_line_p1_y: 45177.01
+        start_line_p2_x: 93804.53
+        start_line_p2_y: 45173.53
+        finish_line_p1_x: 93841.18
+        finish_line_p1_y: 45185.33
+        finish_line_p2_x: 93803.90
+        finish_line_p2_y: 45181.41
+
