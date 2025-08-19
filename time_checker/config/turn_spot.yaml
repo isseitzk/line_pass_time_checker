@@ -43,4 +43,23 @@ polygon_pass_opposite_line_time_measurer:
         finish_line_p1_y: 45185.33
         finish_line_p2_x: 93803.90
         finish_line_p2_y: 45181.41
+      shinkiba_wakasu_line:
+        start_line_p1_x: 94710.14
+        start_line_p1_y: 45266.25
+        start_line_p2_x: 94775.04
+        start_line_p2_y: 45268.03
+        finish_line_p1_x: 94710.84
+        finish_line_p1_y: 45257.27
+        finish_line_p2_x: 94774.80
+        finish_line_p2_y: 45264.15
+      uminomori_park:
+        start_line_p1_x: 91730.63
+        start_line_p1_y: 40365.74
+        start_line_p2_x: 91706.38
+        start_line_p2_y: 40398.20
+        finish_line_p1_x: 91736.45
+        finish_line_p1_y: 40369.69
+        finish_line_p2_x: 91712.39
+        finish_line_p2_y: 40402.61
+
 
